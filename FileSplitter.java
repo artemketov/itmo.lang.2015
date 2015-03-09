@@ -1,6 +1,4 @@
-/**
- * Created by Артём on 25.02.2015.
- */
+
 public interface FileSplitter {
     /**
      * Разбивает файл на два отдельных
